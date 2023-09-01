@@ -1,0 +1,8 @@
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/SpringDemoApplication.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/StudentController.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/InMemoryStudentDao.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/InMemoryStudentService.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/DBStudentService.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/StudentRepository.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/Student.java
+/home/maamoun/Documents/spring-boot-for-beginners/src/main/java/com/alibou/springdemo/student/StudentService.java

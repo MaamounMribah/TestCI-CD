@@ -1,8 +1,9 @@
 spring:
   datasource:
-    url: jdbc:postgres://ep-green-waterfall-12854618-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb
+    url: "jdbc:postgres://ep-green-waterfall-12854618-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb"
     #url: postgres://maamoun:wKTLn9CslqJKdEQXI9j5HEYlMJGM23O7@dpg-cjljaefv9s6c73est0kg-a.frankfurt-postgres.render.com/db_nl3k
     #url: postgres://maamoun:wKTLn9CslqJKdEQXI9j5HEYlMJGM23O7@dpg-cjljaefv9s6c73est0kg-a/db_nl3k
+    #url: jdbc:postgres
     username: default
     password: WOCaQsI19gBw
     driver-class-name: org.postgresql.Driver
